@@ -1,2 +1,5 @@
-# Curso_Python
+# Curso de Python EAD 
+
 Um repositório que guarda meus arquivos do curso que estou fazendo de Python! Aproveite para dar uma olhada!
+
+
